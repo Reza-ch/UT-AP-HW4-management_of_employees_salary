@@ -1,10 +1,10 @@
 # Employee Salary Management System
 
-This repository contains the solution to Homework 4 of the Advanced Programming course at the University of Tehran. The task was to implement a program in C++ to manage and calculate employee salaries based on input data, applying various object-oriented programming principles and practices.
+This repository contains the solution to Assignment 4 of the Advanced Programming course at the University of Tehran. The task was to implement a program in C++ to manage and calculate employee salaries based on input data, applying various object-oriented programming principles and practices.
 
 ## Overview
 
-The program processes employee data, performs salary calculations, and generates an output file containing the results. The main goal of this homework was to demonstrate the use of object-oriented concepts such as classes.
+The program processes employee data, performs salary calculations, and generates an output file containing the results. The main goal of this Assignment was to demonstrate the use of object-oriented concepts such as classes.
 
 ## Project Details
 
@@ -25,4 +25,4 @@ The program processes employee data, performs salary calculations, and generates
    - The output is formatted for clarity and correctness.
 
 
-This project showcases the application of object-oriented programming techniques to a practical problem, fulfilling the requirements of the Advanced Programming course homework.
+This project showcases the application of object-oriented programming techniques to a practical problem, fulfilling the requirements of the Advanced Programming course Assignment.
